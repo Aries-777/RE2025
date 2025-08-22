@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20117810&assignment_repo_type=AssignmentRepo)
 # rs-rmd-portfolio-template
 Template for the portfolio assignment of the course RS: Reproducibility &amp; Model Deployment.
 
@@ -28,10 +27,3 @@ Below we'll tell you what each file does, why you should care, and when we’ll 
 
 Use this table whenever you wonder, “Wait, what’s that file for again, and why did you make me keep it?”
 It’s all about making your work reproducible, shareable, and future-proof; exactly the skills this course is designed to build.
-
-
-## About me
-Hi, I'm Javad.
-
-## Fun Fact
-This is a test in a new branch named fun fact!
