@@ -11,3 +11,6 @@ This message comes locally.
 ## About Me
 Hi, I’m <Mengmeng>.
 I’m learning how to use GitHub Issues.
+
+## Fun Fact
+Hello world!
