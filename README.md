@@ -9,7 +9,7 @@ This is my first GitHub repository for the practical session.
 This message comes locally.
 
 ## About Me
-Hi, I’m <Mengmeng>.
+Hi, I’m Mengmeng.
 I’m learning how to use GitHub Issues.
 
 ## Fun Fact
