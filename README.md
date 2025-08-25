@@ -7,3 +7,7 @@ This is my first GitHub repository for the practical session.
 
 ## Edited on GitHub Web
 This message comes locally.
+
+## About Me
+Hi, I’m <Mengmeng>.
+I’m learning how to use GitHub Issues.
