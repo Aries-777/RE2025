@@ -14,3 +14,6 @@ I’m learning how to use GitHub Issues.
 
 ## Fun Fact
 Hello world!
+
+## This is a new try for all the things in week 1
+Stage, commit and push!
