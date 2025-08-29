@@ -28,3 +28,13 @@ Below we'll tell you what each file does, why you should care, and when we’ll 
 
 Use this table whenever you wonder, “Wait, what’s that file for again, and why did you make me keep it?”
 It’s all about making your work reproducible, shareable, and future-proof; exactly the skills this course is designed to build.
+
+
+## MLOps Practical 1
+This is my first entry for the Reproducibility & Model Deployment course.  
+Author: Mengmeng Shangguan
+
+## About Me
+Hi, I’m Mengmeng Shangguan.
+I’m learning how to use GitHub Issues.
+
