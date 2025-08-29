@@ -17,3 +17,6 @@ Hello world!
 
 ## This is a new try for all the things in week 1
 Stage, commit and push!
+
+## About This Command
+Hi, I’m learning how to use GitHub Issues again.
